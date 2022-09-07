@@ -1,0 +1,26 @@
+/* Common styles */
+body{
+    width: 90%;
+}
+
+.feedback-icons
+{
+    color:#f59e0b;
+}
+.feedback-std-img
+{
+    border-radius: 50%;
+     width: 42px;
+      height: 42px;
+       margin-right: 10px;
+}
+
+.working-container
+{
+background-color: #F4FAFD;
+}
+
+.joining-container
+{
+    background-color: #289BDE;
+}
